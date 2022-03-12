@@ -1,7 +1,4 @@
-I"8<!-- <link rel="stylesheet" href="/assets/css/style.css"> -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-
-<head>
+I"<<head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" /><!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -21,7 +18,10 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"Personal Website of Alfred Adjei-Darko","headline":"Alfred Adjei-Darko","name":"Alfred Adjei-Darko","url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css" />
-  <link rel="icon" type="image/png" href="/assets/images/favicon" /><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Alfred Adjei-Darko" /></head>
+  <link rel="icon" type="image/png" href="/assets/images/favicon.ico" /><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Alfred Adjei-Darko" /></head>
+
+<!-- <link rel="stylesheet" href="/assets/css/style.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
 <div style="height: auto; width: 200px; padding-bottom: 0.25em; margin: 2.5em auto 1em 0; text-align: center;">
     <img src="assets/images/aac.png" />
