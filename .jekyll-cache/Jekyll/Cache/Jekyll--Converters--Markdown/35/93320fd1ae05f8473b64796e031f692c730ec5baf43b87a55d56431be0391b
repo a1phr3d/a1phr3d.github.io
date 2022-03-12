@@ -1,22 +1,13 @@
----
-layout: page
-title: Blog
-permalink: /blog/
----
-
-
-
-
-
-<div style = "margin: 3em auto auto 0;">
-    <div style = "margin-bottom: 1.8em">
+I"ð<div style="margin: 3em auto auto 0;">
+    <div style="margin-bottom: 1em">
         <span style="font-size: 14px; color: #828282;">Feb 19, 2022</span>
         <h3><a href="/posts/2022-02-19-zen-of-computing">Zen of Computing</a></h3>
     </div>
-    <div style = "margin-bottom: 1.8em">
+    <div>
         <span style="font-size: 14px; color: #828282;">May 30, 2021</span>
         <h3><a href="/posts/2021-05-30-welcome-to-jekyll">Welcome To Jekyll</a></h3>
     </div>
 </div>
 
-
+<!-- #style="font-size:20px; text-decoration: underline;" -->
+:ET

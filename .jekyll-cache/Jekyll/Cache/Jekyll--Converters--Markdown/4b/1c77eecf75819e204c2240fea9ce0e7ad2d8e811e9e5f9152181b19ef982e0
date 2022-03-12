@@ -1,0 +1,115 @@
+I"R<div style="margin: 5em auto auto 0;">
+    <span style="font-size: 14px; color: #828282;">May 20, 2016</span>
+    <h3><a class="post-link" href="/minima/2016/05/20/welcome-to-jekyll.html">Welcome To Jekyll</a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <h2>2022</h2>
+    <div><a href="/posts/2022-02-19-zen-of-computing">Zen of Computing</a>
+    <span style="font-size:14px;margin-right:60px;">Feb&nbsp;19</span>
+    </div>
+
+
+
+
+    <div></div>
+    <div></div>
+</div>
+
+<div style="margin: 5em auto auto 0;">
+    <h2>2021</h2>
+</div>
+
+<!-- <ul class="post-list"><li>
+        <span class="post-meta">May 20, 2016</span>
+        <h3>
+          <a class="post-link" href="/minima/2016/05/20/welcome-to-jekyll.html">
+            Welcome To Jekyll
+          </a>
+        </h3></li><li>
+        <span class="post-meta">May 20, 2016</span>
+        <h3>
+          <a class="post-link" href="/minima/junk/2016/05/20/this-post-demonstrates-post-content-styles.html">
+            This post demonstrates post content styles
+          </a>
+        </h3></li><li>
+        <span class="post-meta">May 20, 2016</span>
+        <h3>
+          <a class="post-link" href="/minima/misc/2016/05/20/super-long-article.html">
+            Some articles are just so long they deserve a really long title to see if things will break well
+          </a>
+        </h3></li><li>
+        <span class="post-meta">May 20, 2016</span>
+        <h3>
+          <a class="post-link" href="/minima/2016/05/20/my-example-post.html">
+            My Example Post
+          </a>
+        </h3></li><li>
+        <span class="post-meta">May 19, 2016</span>
+        <h3>
+          <a class="post-link" href="/minima/misc/2016/05/19/super-short-article.html">
+            Some articles are just so short that we have to make the footer stick
+          </a>
+        </h3></li></ul> -->
+
+<p>style=”font-size:20px; text-decoration: underline;”</p>
+
+<div class="post-content">
+  <main class="page-content" aria-label="Content">
+    <div class="page" style="margin-top: 5em;">
+      <h2 class="blog-year">2022</h2>
+      <div class="blog-posts">
+      <p>
+        <span><a href="/posts/2022-02-19-zen-of-computing" style="font-size:20px; text-decoration: underline;">Zen of Computing</a></span>
+        <span style="float:right; font-size:14px;margin-right:60px;">Feb&nbsp;19</span>
+      </p>
+      <!-- <p>
+      <span><a href="/posts/2021-05-30-welcome-to-jekyll" style="font-size:20px; text-decoration: underline;">Welcome to Jekyll!</a></span>
+      <span style="float:right; font-size:14px;margin-right:60px;">May&nbsp;30</span>
+      </p> -->
+      </div>
+      <div class="blog-posts">
+      <p>
+        <span><a href="/posts/2022-02-19-zen-of-computing" style="font-size:20px; text-decoration: underline;">Zen of Computing</a></span>
+        <span style="float:right; font-size:14px;margin-right:60px;">Feb&nbsp;19</span>
+      </p>
+      <!-- <p>
+      <span><a href="/posts/2021-05-30-welcome-to-jekyll" style="font-size:20px; text-decoration: underline;">Welcome to Jekyll!</a></span>
+      <span style="float:right; font-size:14px;margin-right:60px;">May&nbsp;30</span>
+      </p> -->
+      </div>
+
+
+
+
+    </div>
+  </main>
+</div>
+
+<div class="post-content">
+  <main class="page-content" aria-label="Content">
+    <div class="page" style="margin-top: 5em;">
+      <h2 class="blog-year">2021</h2>
+      <div class="blog-posts">
+      <p>
+        <span><a href="/posts/2021-05-30-welcome-to-jekyll" style="font-size:20px; text-decoration: underline;">Welcome to Jekyll!</a></span>
+        <span style="float:right; font-size:14px;margin-right:60px;">May&nbsp;30</span>
+      </p>
+      </div>
+    </div>
+  </main>
+</div>
+
+:ET
