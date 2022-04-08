@@ -5,23 +5,9 @@ permalink: /portfolio/
 ---
 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-
-
 <link rel="stylesheet" href="/assets/css/style.css">
-
-
+<div style = "text-align:center; font-style: italic; font-size: 1.1em; margin-top:3em">If you wish to make an apple pie from scratch, you must first invent the universe</div>
+<div style = "text-align:right; margin-bottom:6em; margin-right:5em">— Carl Sagan</div>
 
 
 
@@ -33,3 +19,5 @@ You can find the source code for Jekyll at GitHub:
 <!-- <div class="publication-teaser"> <img src="/images/publications/simai15.jpg" width="150" height="150" alt="simai15 publication teaser"> </div> <div class="publication-details"> <div class="publication-title"> On Shape Deformation Techniques for Simulation-based Design Optimization </div> <div class="publication-authors"> Daniel Sieger, Stefan Menzel, Mario Botsch </div> <div class="publication-info"> Challenges in Grid Generation and Adaptivity, 2015 </div> <div class="publication-links"> <a href="/download/simai15.pdf">PDF</a>&nbsp;&nbsp; <a href="/download/simai15.bib">BibTex</a>&nbsp;&nbsp; <a href="https://dx.doi.org/10.1007/978-3-319-06053-8_14">DOI</a>&nbsp;&nbsp; </div> </div> <div class="publication-teaser"> <img src="/images/publications/imr14.jpg" width="150" height="150" alt="imr14 publication teaser"> </div> <div class="publication-details"> <div class="publication-title"> Constrained Space Deformation for Design Optimization </div> <div class="publication-authors"> Daniel Sieger, Stefan Menzel, Mario Botsch </div> <div class="publication-info"> International Meshing Roundtable, 2014, <i>Best Paper Award</i> </div> <div class="publication-links"> <a href="/download/imr14.pdf">PDF</a>&nbsp;&nbsp; <a href="/download/imr14_slides_noscript.pdf">Slides</a>&nbsp;&nbsp; <a href="/download/imr14.bib">BibTex</a>&nbsp;&nbsp; <a href="http://dx.doi.org/10.1016/j.proeng.2014.10.377">DOI</a>&nbsp;&nbsp; </div> </div>  -->
 
 </div>
+
+
