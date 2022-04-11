@@ -11,7 +11,17 @@ permalink: /portfolio/
 
 
 <div style = "text-align:center">
-    <button class="tempbttn" href = "https://github.com">Dashboards</button>
+    <button style="background-color: transparent;
+  border-color: #69b3a2;
+  border-width: large;
+  font-size: 1.2em;
+  padding: 20px 40px;
+  margin: 3px;
+  text-align: center;
+  display: inline-block;
+  border: 1px solid ;
+  border-radius: 0.25rem;
+}" href = "https://github.com">Dashboards</button>
     <a class="tempbttn" href = "https://github.com">Projects</a>
     <a class="tempbttn" href = "https://github.com">Publications</a>
 </div>
