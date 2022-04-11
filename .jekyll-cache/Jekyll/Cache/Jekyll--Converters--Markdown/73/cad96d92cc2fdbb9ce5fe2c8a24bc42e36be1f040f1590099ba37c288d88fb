@@ -1,0 +1,12 @@
+I";<link rel="stylesheet" href="/assets/css/style.css" />
+
+<div style="text-align:center; font-style: italic; font-size: 1.1em; margin-top:3em">If you wish to make an apple pie from scratch, you must first invent the universe</div>
+<div style="text-align:right; margin-bottom:6em; margin-right:5em">— Carl Sagan</div>
+
+<div style="text-align:center">
+    <button class="bttn" href="https://github.com">Dashboards</button>
+    <button class="bttn" href="https://github.com">Projects</button>
+    <button class="bttn" href="https://github.com">Publications</button>
+</div>
+
+:ET

@@ -24,7 +24,8 @@
 .tempbttn, tempbttn:visited, temp:hover, temp:active{
   background-color: transparent;
   border-color: #69b3a2;
-  /* color: #69b3a2; */
+  color: #69b3a2;
+  /* color: #1756A9; */
   border-width: large;
   font-size: 1.2em;
   padding: 20px 40px;
@@ -33,6 +34,19 @@
   display: inline-block;
   /* white-space: nowrap;*/
   /*vertical-align: middle; */
+  border: 1px solid ;
+  border-radius: 0.25rem;
+}
+
+.bttn{
+  background-color: transparent;
+  color: #1756A9;
+  border-width: large;
+  font-size: 1.2em;
+  padding: 20px 40px;
+  margin: 3px;
+  text-align: center;
+  display: inline-block;
   border: 1px solid ;
   border-radius: 0.25rem;
 }
