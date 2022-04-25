@@ -29,7 +29,7 @@ permalink: /portfolio/projects.md/
         <div class="publication-title"> IBM's Professional Certificate in Python Data Science </div> 
         <!-- <div class="publication-authors"> Alfred Adjei-Darko </div>  -->
         <!-- <div class="publication-info"> <a href="/portfolio/analyzing data with python.html/" target="_blank">Analyzing Data With Python</a> </div>  -->
-        <div class="publication-info"> <a href="/portfolio/adwp.html/" target="_blank">Analyzing Data With Python</a> </div> 
+        <div class="publication-info"> <a href="/portfolio/adwp.html" target="_blank">Analyzing Data With Python</a> </div> 
         <div class="publication-info"> Visualizing Data With Python </div> 
         <div class="publication-info"> Machine Learning With Python </div> 
         <div class="publication-info"> Data Science and Machine Learning Capstone Project </div> 
