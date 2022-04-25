@@ -36,6 +36,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# collections: 
+#   portfolioassets:
+#     output: true
+collections: 
+  portfolio:
+    output: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

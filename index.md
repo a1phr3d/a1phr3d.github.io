@@ -9,7 +9,7 @@ layout: myhome
 ---
 
 
-<!-- <link rel="stylesheet" href="/assets/css/style.css"> -->
+<link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
@@ -20,6 +20,6 @@ layout: myhome
 
 <div style = "margin: 2.5em auto auto 1em;">
     Hi, I'm Alfred. <br>
-    I share my thoughts and learning journey into all things Data Science and Engineering on my <a href="/blog/">blog.</a><br>
-    My more important projects or more well thought/fleshed out work, I share on my <a href="/portfolio">portfolio.</a>
+    I share my thoughts and learning journey <br> into all things Data Science and Engineering on my <a href="/blog/">blog.</a><br>
+    My more important projects or more well thought/fleshed out work, <br> I share on my <a href="/portfolio">portfolio.</a>
 </div>
