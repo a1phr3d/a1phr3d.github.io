@@ -15,9 +15,6 @@ permalink: /portfolio/
 <!-- Sidebar -->
  <!-- margin-left:9em;  -->
 <div style = "margin-top:1em; text-align:center">
-  <!-- <div style = "font-size: 1em; margin-bottom: 0.1em"><a href="/portfolio/dashboards.md/">Dashboards</a></div>
-  <div style = "font-size: 1em; margin-bottom: 0.1em"><a href="/portfolio/projects.md/">Projects</a></div>
-  <div style = "font-size: 1em; margin-bottom: 0.1em"><a href="/portfolio/publications.md/">Publications</a></div> -->
   <div class = ptflobttn><a href="/portfolio/dashboards.md/">Dashboards</a></div>
   <div class = ptflobttn><a href="/portfolio/projects.md/">Projects</a></div>
   <div class = ptflobttn><a href="/portfolio/publications.md/">Publications</a></div>

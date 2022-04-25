@@ -17,6 +17,22 @@
 .publication-links{font-size:80%}.publication-links a{padding:0.15em 0.75em;padding-left:0}
 
 
+.ptflobttn {
+  background-color: transparent;
+  border-color: #1756A9;
+  color: #1756A9;
+  border-width: large;
+  font-size: 1.2em;
+  padding: 10px 20px;
+  margin: 3px;
+  text-align: center;
+  display: inline-block;
+  border: 1px solid ;
+  border-radius: 0.25rem;
+}
+
+
+
 .ptflobttn, ptflobttn:visited, ptflobttn:hover, ptflobttn:active{
   background-color: transparent;
   border-color: #1756A9;
