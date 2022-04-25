@@ -31,7 +31,20 @@
   border-radius: 0.25rem;
 }
 
+.ptfloactive{
+  background-color: transparent;
+  border-color: silver;
+  color: silver;
+  border-width: large;
+  font-size: 1.2em;
+  padding: 10px 20px;
+  margin: 3px;
+  text-align: center;
+  display: inline-block;
+  border: 1px solid ;
+  border-radius: 0.25rem;
 
+}
 
 .ptflobttn, ptflobttn:visited, ptflobttn:hover, ptflobttn:active{
   background-color: transparent;
