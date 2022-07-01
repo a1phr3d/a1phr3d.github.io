@@ -12,27 +12,46 @@ permalink: /portfolio/projects.md/
 
 
 <link rel="stylesheet" href="/assets/css/style.css">
-<div style = "margin-top:1em; text-align:center">
+<div style = "margin-top:1em; margin-bottom:5em; text-align:center">
   <div class = ptflobttn><a href="/portfolio/dashboards.md/">Dashboards</a></div>
   <div class = ptfloactive><a style = "color:silver;" href="/portfolio/projects.md/">Projects</a></div>
   <div class = ptflobttn><a href="/portfolio/publications.md/">Publications</a></div>
 </div>
 
 
-<div style="margin-top:5em; text-align:left">
-<div class="publications-container" style="margin-top:3em">
+
+
+
+
+
+
+<div style="text-align:left">
+<div class="publications-container" ><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/mls1.png" width="150" height="150" alt="thesis publication teaser"></div>
+    <div class="publication-details"> 
+        <div class="publication-title"> Machine Learning Specialization  </div> 
+        <div class="publication-info"> <a href="/portfolio/adwp.html" target="_blank" >Supervised Machine Learning: Regression and Classification</a> 
+        <div class="publication-links">
+            <a href="/download/thesis.pdf">PDF</a>&nbsp;&nbsp;
+        </div>
+        </div> 
+        <!-- <ul>
+            <li><div class="publication-info">Test</div></li>
+        </ul> -->
+        <div class="publication-info"> <a href="/portfolio/vdwp.html" target="_blank" >Advanced Learning Algorithms</a> </div>
+        <div class="publication-info"> <a href="/portfolio/vdwp.html" target="_blank" >Unsupervised Learning, Recommenders, Reinforcement Learning</a> </div>
+    </div>
+    </div>
+</div>
+
+<div style="text-align:left"><!-- #margin-top:5em;  -->
+<div class="publications-container" ><!-- style="margin-top:2em" -->
     <div class="publication-teaser"> <img src="/assets/images/portfolio/adp1.png" width="150" height="150" alt="thesis publication teaser"></div>
     <div class="publication-details"> 
         <div class="publication-title"> IBM's Professional Certificate in Python Data Science </div> 
-        <!---->
-        <!---->
-        <!---->
-        <!---->
-        <!---->
         <div class="publication-info"> <a href="/portfolio/adwp.html" target="_blank" >Analyzing Data With Python</a> </div> 
         <div class="publication-info"> <a href="/portfolio/vdwp.html" target="_blank" >Visualizing Data With Python</a> </div>
-        <!-- <div class="publication-info"> Generating Maps With Python </div> -->
-        <div class="publication-info"> Machine Learning With Python </div> 
+        <div class="publication-info"> <a href="/portfolio/mlwp.html" target="_blank" >Machine Learning With Python</a> </div> 
         <div class="publication-info"> Data Science and Machine Learning Capstone Project </div> 
         <div class="publication-links">
         <!--<a href="/download/thesis.pdf">PDF</a>&nbsp;&nbsp; 
@@ -40,7 +59,7 @@ permalink: /portfolio/projects.md/
             <a href="/download/thesis.bib">BibTex</a>&nbsp;&nbsp; -->
         </div>
     </div>
-    
+    </div>
 </div>
 
 
