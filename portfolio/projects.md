@@ -30,7 +30,7 @@ permalink: /portfolio/projects.md/
     <div class="publication-teaser"> <img src="/assets/images/portfolio/mls1.png" width="150" height="150" alt="thesis publication teaser"></div>
     <div class="publication-details"> 
         <div class="publication-title"> Machine Learning Specialization  </div> 
-        <div class="publication-info"> <a href="/portfolio/adwp.html" target="_blank" >Supervised Machine Learning: Regression and Classification</a></div> 
+        <div class="publication-info"> <a href="/portfolio/sml.html" target="_blank" >Supervised Machine Learning: Regression and Classification</a></div> 
         <div class="publication-info"> Advanced Learning Algorithms </div>
         <div class="publication-info"> Unsupervised Learning: Recommenders, Reinforcement Learning </div>
     </div>
