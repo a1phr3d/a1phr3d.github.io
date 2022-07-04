@@ -45,7 +45,7 @@ permalink: /portfolio/projects.md/
         <div class="publication-info"> <a href="/portfolio/adwp.html" target="_blank" >Analyzing Data With Python</a> </div> 
         <div class="publication-info"> <a href="/portfolio/vdwp.html" target="_blank" >Visualizing Data With Python</a> </div>
         <div class="publication-info"> <a href="/portfolio/mlwp.html" target="_blank" >Machine Learning With Python</a> </div> 
-        <div class="publication-info"> Data Science and Machine Learning Capstone Project </div> 
+        <!-- <div class="publication-info"> Data Science and Machine Learning Capstone Project </div>  -->
         <div class="publication-links">
         <!--<a href="/download/thesis.pdf">PDF</a>&nbsp;&nbsp; 
             <a href="/download/thesis_slides_noscript.pdf">Slides</a>&nbsp;&nbsp;
