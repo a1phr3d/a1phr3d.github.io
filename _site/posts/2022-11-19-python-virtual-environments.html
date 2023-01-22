@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Python Virtual Environments | Alfred Adjei-Darko</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Python Virtual Environments" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Visit dataquest for a more in-depth overview of what python virtual environments are, as well as what advantages they promise." />
+<meta property="og:description" content="Visit dataquest for a more in-depth overview of what python virtual environments are, as well as what advantages they promise." />
+<link rel="canonical" href="http://localhost:4000/posts/2022-11-19-python-virtual-environments" />
+<meta property="og:url" content="http://localhost:4000/posts/2022-11-19-python-virtual-environments" />
+<meta property="og:site_name" content="Alfred Adjei-Darko" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-11-19T20:14:00-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Python Virtual Environments" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-11-19T20:14:00-05:00","datePublished":"2022-11-19T20:14:00-05:00","description":"Visit dataquest for a more in-depth overview of what python virtual environments are, as well as what advantages they promise.","headline":"Python Virtual Environments","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/2022-11-19-python-virtual-environments"},"url":"http://localhost:4000/posts/2022-11-19-python-virtual-environments"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css">
+  <link rel="icon" type="image/png" href="/assets/images/favicon.ico"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Alfred Adjei-Darko" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Alfred Adjei-Darko</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/about/">About</a><a class="page-link" href="/blog/">Blog</a><a class="page-link" href="/portfolio/">Portfolio</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Python Virtual Environments</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2022-11-19T20:14:00-05:00" itemprop="datePublished">Nov 19, 2022
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Visit <a href="https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/">dataquest</a> for a more in-depth overview of what python virtual environments are, as well as 
+what advantages they promise.</p>
+
+<h3 style="margin-top: 1.8em">Creating a Python Virtual Environment (Windows)</h3>
+<!-- #; font-size: 14px -->
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">py</span> <span class="o">-</span><span class="n">m</span> <span class="n">venv</span> <span class="p">[</span><span class="s1">'/path/to/new/virtual/environment'</span><span class="p">]</span></code></pre></figure>
+
+<h3 style="margin-top: 1.8em">Activating a Python Virtual Environment</h3>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="p">[</span><span class="s1">'/path/to/new/virtual/environment'</span><span class="p">]\</span><span class="n">scripts</span><span class="p">\</span><span class="n">activate</span></code></pre></figure>
+
+<h3 style="margin-top: 1.8em">Installing Packages in a Python Virtual Environment</h3>
+<p>By default, only pip and setup tools are initially installed. To check the pre-installed packages:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">pip</span> <span class="n">list</span></code></pre></figure>
+
+<p>To upgrade pip:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">py</span> <span class="o">-</span><span class="n">m</span> <span class="n">pip</span> <span class="n">install</span> <span class="o">--</span><span class="n">upgrade</span> <span class="n">pip</span></code></pre></figure>
+
+<p>To install new packages:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">py</span> <span class="o">-</span><span class="n">m</span> <span class="n">pip</span> <span class="n">install</span> <span class="n">pandas</span></code></pre></figure>
+
+<h3 style="margin-top: 1.8em">Reproducing a Python Virtual Environment</h3>
+<p>You first need to list all the dependencies installed. Export the package list into a requirements.txt file</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">pip</span> <span class="nb">freeze</span> <span class="o">&gt;</span> <span class="n">requirements</span><span class="p">.</span><span class="nf">txt</span></code></pre></figure>
+
+<p>Create a virtual environment, activate it, and then run:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">pip</span> <span class="n">install</span> <span class="o">-</span><span class="n">r</span> <span class="n">requirements</span><span class="p">.</span><span class="nf">txt</span></code></pre></figure>
+
+<p>Note:</p>
+<blockquote>
+  <p>If you’re going to add your project to a Git repository, never add its virtual environment folder to the repository. The only thing you need to add is the requirements.txt file.</p>
+</blockquote>
+
+<blockquote>
+  <p>A Python project folder contains source code that runs in a virtual environment. On the other hand, a virtual environment is a folder that contains the Python interpreter, packages, and tools like pip. So, the best practice is to keep them separate and never put your project files in a virtual environment folder.</p>
+</blockquote>
+
+<h3 style="margin-top: 1.8em">Deactivating a Python Virtual Environment</h3>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">deactivate</span></code></pre></figure>
+
+<h3 style="margin-top: 1.8em">Deleting a Python Virtual Environment</h3>
+<p>If you want to delete a virtual environment, you can simply delete its folder, no uninstall required</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">rm</span> <span class="o">-</span><span class="n">rf</span> <span class="p">[</span><span class="s1">'/path/to/new/virtual/environment'</span><span class="p">]</span></code></pre></figure>
+
+<h3 style="margin-top: 1.8em">Use Python Virtual Environments in Visual Studio Code</h3>
+<p>First, ensure you have created and activated a virtual environment.<br />
+Then navigate to your project folder in the terminal <br /> 
+and run the following command:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">code</span> <span class="o">.</span></code></pre></figure>
+
+<p>The command above will open the project folder in VS Code. If the command above doesn’t work, open VS code, press command + shift + P, to open the Command Palette, type shell command and select Install ‘code’ command in PATH. Now, create a Python file, and name it my_script.py. The last step is to select the virtual environment using the Python: Select Interpreter command from the Command Palette. To do so, press Command + shift + P, and type Python, and choose Select Interpreter.
+The Python: Select Interpreter command displays all available environments.</p>
+
+
+  </div><a class="u-url" href="/posts/2022-11-19-python-virtual-environments" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Alfred Adjei-Darko</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <!-- <li class="p-name">Alfred Adjei-Darko-->
+            </li><li><a class="u-email" href="mailto:a.alfred@columbia.edu">a.alfred@columbia.edu</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/a1phr3d"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">a1phr3d</span></a></li><li><a href="https://www.linkedin.com/in/alfreda-d51"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">alfreda-d51</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Personal Website of Alfred Adjei-Darko</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
