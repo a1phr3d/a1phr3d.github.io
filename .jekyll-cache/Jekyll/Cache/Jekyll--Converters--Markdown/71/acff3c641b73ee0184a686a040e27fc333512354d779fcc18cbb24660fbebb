@@ -1,4 +1,4 @@
-I"<div style="text-align:center; font-style: italic; font-size: 1.1em; margin-top:3em"></div>
+I"†<div style="text-align:center; font-style: italic; font-size: 1.1em; margin-top:3em"></div>
 
 <div style="margin-bottom:3em">
 Alfred is a data analyst at Sponsors for Educational Opportunity (SEO).
@@ -24,16 +24,47 @@ BA, 2019, Columbia University
 <div style="margin-bottom:3em">
 <h4>CERTIFICATIONS</h4>
 <ul>
-    <li>Supervised Machine Learning: Regression and Classification<br /> 
+    <li>
+        <div><img src="../assets/images/preview-image1.png" alt="Preview Image 1" style="vertical-align: top; max-width: 100px;" /> 
+        Supervised Machine Learning: Regression and Classification <br />
         <a href="https://www.coursera.org/account/accomplishments/certificate/CU4KLC39SKKM" target="_blank">Certificate</a> | 
         <a href="/portfolio/sml.html" target="_blank">Related Work</a> | 
-        Verify at: <a href="https://coursera.org/verify/CU4KLC39SKKM">https://coursera.org/verify/CU4KLC39SKKM</a></li>
-    <li>Advanced Learning Algorithms</li>
-    <li>Unsupervised Learning: Recommenders, Reinforcement Learning </li>
-    <li>Google Cloud Fundamentals: Core Infrastructure<br /> 
-    <a href="https://www.coursera.org/account/accomplishments/certificate/2PZX88VJKWD7" target="_blank">Certificate</a> | Verify at: <a href="https://coursera.org/verify/2PZX88VJKWD7">https://coursera.org/verify/2PZX88VJKWD7</a></li>
-</ul>
+        Verify at: <a href="https://coursera.org/verify/CU4KLC39SKKM" target="_blank">https://coursera.org/verify/CU4KLC39SKKM</a>
+    &lt;/li&gt;
+    <li>
+        <img src="preview-image2.jpg" alt="Preview Image 2" style="vertical-align: middle; max-width: 100px;" /> 
+        Advanced Learning Algorithms
+    </li>
+    <li>
+        <img src="preview-image3.jpg" alt="Preview Image 3" style="vertical-align: middle; max-width: 100px;" /> 
+        Unsupervised Learning: Recommenders, Reinforcement Learning 
+    </li>
+    <li>
+        <img src="preview-image4.jpg" alt="Preview Image 4" style="vertical-align: middle; max-width: 100px;" /> 
+        Google Cloud Fundamentals: Core Infrastructure<br /> 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/2PZX88VJKWD7" target="_blank">Certificate</a> | 
+        Verify at: <a href="https://coursera.org/verify/2PZX88VJKWD7" target="_blank">https://coursera.org/verify/2PZX88VJKWD7</a>
+    </li>
+&lt;/ul&gt;
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 <div style = "margin-bottom:3em">
@@ -44,10 +75,12 @@ Dissertations Initiative for Advancement of Climate-Change Research (DISCCRS) Sc
 </div>
 -->
 
+
 <!-- SELECT URBAN HEALTH ACTIVITIES
 NYC Climate-Health Adaptation Workgroup: The NYC Department of Health and Mental Hygiene (DOH), along with the Mayor's Office of Long-Term Planning and Sustainability, has convened public health experts from city agencies, academic institutions, and non-governmental organizations to form the Public Health Adaptation Workgroup. The mission of the Workgroup is to play an integral role in the development of a citywide Public Health Climate Change Adaptation Plan by: - Applying evidence-based best practices and/or personal and agency expertise and experience - Reviewing existing plans, proposed interventions and prevention efforts - Providing information and/or data on agency activities and scope of activities Dr Knowlton is representing NRDC among the NGOs (non-governmental organizations) participating on the workgroup.
 IRI Summer Climate Institute: IRI uses a science-based approach to enhance society's capability to understand, anticipate and manage the impacts of climate in order to improve human welfare and the environment, especially in developing countries. IRI's sumemr climate-health institute at their campus just north of NYC attracts global climate and health professionals to discuss cutting-edge research questions.
 The New York Climate and Health Project: An integrated modeling system was developed and used to assess potential future health impacts of climate change in the NYC metropolitan region.
 SELECT GLOBAL ACTIVITIES
 NRDC's India Initiative: Preparing for Public Health Impacts of Climate Change: Heat waves, floods, and infectious disease outbreaks are just some of the public health threats in India that could by exacerbated by climate change. Communities need the ability to assess their own climate-related public health risks and put effective adaptation measures into place. NRDC's India Initiative is working with a premier Indian health organization to develop a climate-health preparedness plan in a major Indian city, Ahmedabad, Gujarat, focused on preventing heat-related deaths and illnesses. The India Initiative is also working to assess the vulnerabilities of local communities to extreme heat events and to develop municipal strategies for preparing and responding to climate emergencies. -->
+</li></ul></div>
 :ET

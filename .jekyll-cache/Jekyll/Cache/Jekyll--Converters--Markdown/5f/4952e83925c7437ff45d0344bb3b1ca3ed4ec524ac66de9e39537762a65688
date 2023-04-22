@@ -1,4 +1,6 @@
-I"C<div style="text-align:center; font-style: italic; font-size: 1.1em; margin-top:3em"></div>
+I"ð<link rel="stylesheet" href="/assets/css/style.css" />
+
+<div style="text-align:center; font-style: italic; font-size: 1.1em; margin-top:3em"></div>
 
 <div style="margin-bottom:3em">
 Alfred is a data analyst at Sponsors for Educational Opportunity (SEO).
@@ -23,16 +25,70 @@ BA, 2019, Columbia University
 
 <div style="margin-bottom:3em">
 <h4>CERTIFICATIONS</h4>
+
+<div style="text-align:left">
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="certification-teaser"> <img src="/assets/images/portfolio/mls1.png" alt="thesis publication teaser" /></div>
+    <div class="publication-details"> 
+        <div class="publication-title"> Machine Learning Specialization  </div> 
+        <div class="publication-info"> <a href="/portfolio/sml.html" target="_blank">Supervised Machine Learning: Regression and Classification</a></div> 
+        <div class="publication-info"> Advanced Learning Algorithms </div>
+        <div class="publication-info"> Unsupervised Learning: Recommenders, Reinforcement Learning </div>
+    </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<div style="text-align:left">
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/mls1.png" width="150" height="150" alt="thesis publication teaser" /></div>
+    <div class="publication-details"> 
+        <div class="publication-title"> Machine Learning Specialization  </div> 
+        <div class="publication-info"> <a href="/portfolio/sml.html" target="_blank">Supervised Machine Learning: Regression and Classification</a></div> 
+        <div class="publication-info"> Advanced Learning Algorithms </div>
+        <div class="publication-info"> Unsupervised Learning: Recommenders, Reinforcement Learning </div>
+    </div>
+    </div>
+</div>
+
+
+
 <ul>
-    <li>Supervised Machine Learning: Regression and Classification<br /> 
+    <li>
+        <div class="publication-teaser"><img src="../assets/images/preview-image1.png" width="150" height="150" alt="Preview Image 1" /></div>
+        <div class="publication-details"><div class="publication-title">Supervised Machine Learning: Regression and Classification</div>
+        </div>
+        
+        <a>Supervised Machine Learning: Regression and Classification <br /></a>
+
+
+
+
+
         <a href="https://www.coursera.org/account/accomplishments/certificate/CU4KLC39SKKM" target="_blank">Certificate</a> | 
         <a href="/portfolio/sml.html" target="_blank">Related Work</a> | 
-        Verify at: <a href="https://coursera.org/verify/CU4KLC39SKKM" target="_blank">https://coursera.org/verify/CU4KLC39SKKM</a></li>
-    <li>Advanced Learning Algorithms</li>
-    <li>Unsupervised Learning: Recommenders, Reinforcement Learning </li>
-    <li>Google Cloud Fundamentals: Core Infrastructure<br /> 
+        Verify at: <a href="https://coursera.org/verify/CU4KLC39SKKM" target="_blank">https://coursera.org/verify/CU4KLC39SKKM</a>
+    </li>
+    <li>
+        <img src="preview-image2.jpg" alt="Preview Image 2" style="vertical-align: middle; max-width: 100px;" /> 
+        Advanced Learning Algorithms
+    </li>
+    <li>
+        <img src="preview-image3.jpg" alt="Preview Image 3" style="vertical-align: middle; max-width: 100px;" /> 
+        Unsupervised Learning: Recommenders, Reinforcement Learning 
+    </li>
+    <li>
+        <img src="preview-image4.jpg" alt="Preview Image 4" style="vertical-align: middle; max-width: 100px;" /> 
+        Google Cloud Fundamentals: Core Infrastructure<br /> 
         <a href="https://www.coursera.org/account/accomplishments/certificate/2PZX88VJKWD7" target="_blank">Certificate</a> | 
-        Verify at: <a href="https://coursera.org/verify/2PZX88VJKWD7" target="_blank">https://coursera.org/verify/2PZX88VJKWD7</a></li>
+        Verify at: <a href="https://coursera.org/verify/2PZX88VJKWD7" target="_blank">https://coursera.org/verify/2PZX88VJKWD7</a>
+    </li>
 </ul>
 </div>
 

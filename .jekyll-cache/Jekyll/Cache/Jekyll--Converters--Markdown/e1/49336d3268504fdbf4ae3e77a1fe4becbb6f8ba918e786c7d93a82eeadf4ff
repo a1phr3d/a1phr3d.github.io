@@ -1,0 +1,114 @@
+I"M<link rel="stylesheet" href="/assets/css/style.css" />
+
+<div style="text-align:center; font-style: italic; font-size: 1.1em; margin-top:3em"></div>
+
+<div style="margin-bottom:3em">
+Alfred is a data analyst at Sponsors for Educational Opportunity (SEO).
+</div>
+
+<div style="margin-bottom:3em">
+<h4>AREAS OF EXPERTISE</h4>
+<code><a>Data Science</a></code>&nbsp;&nbsp;&nbsp;  <code>Machine Learning</code>&nbsp;&nbsp;&nbsp;   <code>Artificial Intelligence</code><br />	
+<code>Brain-Computer Interfacing</code>&nbsp;&nbsp;&nbsp;   <code>Human-Centered Artificial Intelligence</code>
+</div>
+
+<div style="margin-bottom:3em">
+<h4>EDUCATION</h4>
+BA, 2019, Columbia University 
+</div>
+
+<div style="margin-bottom:3em">
+<h4>OTHER AFFILIATIONS</h4>
+<a href="https://www.aera.net/">Member, American Educational Research Association</a>
+<!-- Chair, Member, Allied Health Member,  -->
+</div>
+
+<div style="margin-bottom:3em">
+<h4>CERTIFICATIONS</h4>
+
+<div style="text-align:left">
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="certification-teaser"> <img src="../assets/images/preview-image1.png" width="150" height="110" alt="thesis publication teaser" /></div>
+    <div class="publication-details"> 
+        <div class="certification-title" style="font-weight:600"> Supervised Machine Learning: Regression and Classification  </div> 
+        <div class="certification-title"><blockquote style="font-style:normal; font-size: 1em; font:calibri">Built and trained supervised machine learning models in Python using NumPy &amp; scikit-learn libraries</blockquote> </div>
+        <div class="certification-title" style="font-style:italic; font-size: .8em">Built and trained supervised machine learning models in Python using NumPy &amp; scikit-learn libraries </div>
+        <div class="certification-title"> 
+            <a href="https://www.coursera.org/account/accomplishments/certificate/CU4KLC39SKKM" target="_blank">Certificate</a> |
+            <a href="/portfolio/sml.html" target="_blank">Related Work</a>
+        </div>
+        <div class="certification-title">Verify at: <a href="https://coursera.org/verify/CU4KLC39SKKM" target="_blank">https://coursera.org/verify/CU4KLC39SKKM</a></div>
+    </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<div style="text-align:left">
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/mls1.png" width="150" height="150" alt="thesis publication teaser" /></div>
+    <div class="publication-details"> 
+        <div class="publication-title"> Machine Learning Specialization  </div> 
+        <div class="publication-info"> <a href="/portfolio/sml.html" target="_blank">Supervised Machine Learning: Regression and Classification</a></div> 
+        <div class="publication-info"> Advanced Learning Algorithms </div>
+        <div class="publication-info"> Unsupervised Learning: Recommenders, Reinforcement Learning </div>
+    </div>
+    </div>
+</div>
+
+
+
+<ul>
+    <li>
+        <div class="publication-teaser"><img src="../assets/images/preview-image1.png" width="150" height="150" alt="Preview Image 1" /></div>
+        <div class="publication-details"><div class="publication-title">Supervised Machine Learning: Regression and Classification</div>
+        </div>
+        
+        <a>Supervised Machine Learning: Regression and Classification <br /></a>
+
+
+
+
+
+        <a href="https://www.coursera.org/account/accomplishments/certificate/CU4KLC39SKKM" target="_blank">Certificate</a> | 
+        <a href="/portfolio/sml.html" target="_blank">Related Work</a> | 
+        Verify at: <a href="https://coursera.org/verify/CU4KLC39SKKM" target="_blank">https://coursera.org/verify/CU4KLC39SKKM</a>
+    </li>
+    <li>
+        <img src="preview-image2.jpg" alt="Preview Image 2" style="vertical-align: middle; max-width: 100px;" /> 
+        Advanced Learning Algorithms
+    </li>
+    <li>
+        <img src="preview-image3.jpg" alt="Preview Image 3" style="vertical-align: middle; max-width: 100px;" /> 
+        Unsupervised Learning: Recommenders, Reinforcement Learning 
+    </li>
+    <li>
+        <img src="preview-image4.jpg" alt="Preview Image 4" style="vertical-align: middle; max-width: 100px;" /> 
+        Google Cloud Fundamentals: Core Infrastructure<br /> 
+        <a href="https://www.coursera.org/account/accomplishments/certificate/2PZX88VJKWD7" target="_blank">Certificate</a> | 
+        Verify at: <a href="https://coursera.org/verify/2PZX88VJKWD7" target="_blank">https://coursera.org/verify/2PZX88VJKWD7</a>
+    </li>
+</ul>
+</div>
+
+<!--
+<div style = "margin-bottom:3em">
+<h4>HONORS & AWARDS</h4>
+ Mellon Teaching Fellow, Barnard College, 2006-2007
+APERG Scholar, Mid-Atlantic States Section of the Air and Waste Management Association (MASS-A&WMA) Air Pollution Educational Research Grant Program (APERG), 2006-2007
+Dissertations Initiative for Advancement of Climate-Change Research (DISCCRS) Scholar, 2006 
+</div>
+-->
+
+<!-- SELECT URBAN HEALTH ACTIVITIES
+NYC Climate-Health Adaptation Workgroup: The NYC Department of Health and Mental Hygiene (DOH), along with the Mayor's Office of Long-Term Planning and Sustainability, has convened public health experts from city agencies, academic institutions, and non-governmental organizations to form the Public Health Adaptation Workgroup. The mission of the Workgroup is to play an integral role in the development of a citywide Public Health Climate Change Adaptation Plan by: - Applying evidence-based best practices and/or personal and agency expertise and experience - Reviewing existing plans, proposed interventions and prevention efforts - Providing information and/or data on agency activities and scope of activities Dr Knowlton is representing NRDC among the NGOs (non-governmental organizations) participating on the workgroup.
+IRI Summer Climate Institute: IRI uses a science-based approach to enhance society's capability to understand, anticipate and manage the impacts of climate in order to improve human welfare and the environment, especially in developing countries. IRI's sumemr climate-health institute at their campus just north of NYC attracts global climate and health professionals to discuss cutting-edge research questions.
+The New York Climate and Health Project: An integrated modeling system was developed and used to assess potential future health impacts of climate change in the NYC metropolitan region.
+SELECT GLOBAL ACTIVITIES
+NRDC's India Initiative: Preparing for Public Health Impacts of Climate Change: Heat waves, floods, and infectious disease outbreaks are just some of the public health threats in India that could by exacerbated by climate change. Communities need the ability to assess their own climate-related public health risks and put effective adaptation measures into place. NRDC's India Initiative is working with a premier Indian health organization to develop a climate-health preparedness plan in a major Indian city, Ahmedabad, Gujarat, focused on preventing heat-related deaths and illnesses. The India Initiative is also working to assess the vulnerabilities of local communities to extreme heat events and to develop municipal strategies for preparing and responding to climate emergencies. -->
+:ET
