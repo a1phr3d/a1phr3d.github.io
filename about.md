@@ -14,7 +14,7 @@ Alfred is a data analyst at Sponsors for Educational Opportunity (SEO).
 
 <div style = "margin-bottom:3em">
 <h4>AREAS OF EXPERTISE</h4>
-<code><a>Data Science</a></code>&nbsp;&nbsp;&nbsp;  <code>Machine Learning</code>&nbsp;&nbsp;&nbsp;   <code>Artificial Intelligence</code><br>	
+<code>Data Science</code>&nbsp;&nbsp;&nbsp;  <code>Machine Learning</code>&nbsp;&nbsp;&nbsp;   <code>Artificial Intelligence</code><br>	
 <code>Brain-Computer Interfacing</code>&nbsp;&nbsp;&nbsp;   <code>Human-Centered Artificial Intelligence</code>
 </div>
 
@@ -37,7 +37,7 @@ BA, 2019, Columbia University
 
 <div style="text-align:left">
 <div class="publications-container" ><!-- style="margin-top:2em" -->
-    <div class="certification-teaser" > <img src="../assets/images/preview-image1.png" width="150" height="110" alt="thesis publication teaser"></div>
+    <div class="certification-teaser" > <img src="../assets/images/certifications/smlrc.png" width="150" height="110" alt="thesis publication teaser"></div>
     <div class="publication-details"> 
         <div class="certification-title" style="font-weight:600"> Supervised Machine Learning: Regression and Classification  </div> 
         <!-- <div class="certification-title"><blockquote style = "font-style:normal; font-size: 1em; font:calibri">Built and trained supervised machine learning models in Python using NumPy & scikit-learn libraries</blockquote> </div> -->
@@ -86,11 +86,11 @@ BA, 2019, Columbia University
 
 <div style="text-align:left">
 <div class="publications-container" ><!-- style="margin-top:2em" -->
-    <div class="certification-teaser" > <img src="../assets/images/preview-image1ww.png" width="150" height="110" alt="thesis publication teaser"></div>
+    <div class="certification-teaser" > <img src="../assets/images/certifications/gcf.png" width="150" height="110" alt="thesis publication teaser"></div>
     <div class="publication-details"> 
         <div class="certification-title" style="font-weight:600"> Google Cloud Fundamentals: Core Infrastructure  </div> 
         <!-- <div class="certification-title"><blockquote style = "font-style:normal; font-size: 1em; font:calibri">Built and trained supervised machine learning models in Python using NumPy & scikit-learn libraries</blockquote> </div> -->
-        <!-- <div class="certification-title" style = "font-style:italic; font-size: .8em">Built and trained supervised machine learning models in Python using NumPy & scikit-learn libraries </div> -->
+        <div class="certification-title" style = "font-style:italic; font-size: .8em">Explored Google Cloud deployment environments (App Engine, Kubernetes Engine, Compute Engine) and storage options (Cloud Storage, Cloud SQL, Bigtable, Firestore) along with important resource and policy management tools. </div>
         <div class="certification-title"> 
             <a href="https://www.coursera.org/account/accomplishments/certificate/2PZX88VJKWD7" target="_blank" >Certificate</a>
             <!-- <a href = "/portfolio/sml.html" target="_blank" > | Related Work</a> -->
