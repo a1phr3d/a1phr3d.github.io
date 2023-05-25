@@ -1,4 +1,4 @@
-I"ö<link rel="stylesheet" href="/assets/css/style.css" />
+I"F<link rel="stylesheet" href="/assets/css/style.css" />
 
 <!-- Sidebar -->
 <p><!-- margin-left:9em;  --></p>
@@ -6,6 +6,7 @@
   <div class="ptflobttn"><a href="/portfolio/dashboards.md/">Dashboards</a></div>
   <div class="ptflobttn"><a href="/portfolio/projects.md/">Projects</a></div>
   <div class="ptflobttn"><a href="/portfolio/publications.md/">Publications</a></div>
+  <div class="ptflobttn"><a href="/portfolio/workshops.md/">Workshops</a></div>
 </div>
 
 <!-- Page Content margin-left:11em; -->

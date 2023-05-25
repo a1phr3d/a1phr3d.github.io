@@ -1,0 +1,60 @@
+I"B	<link rel="stylesheet" href="/assets/css/style.css" />
+
+<p>Click on an image for an enlarged view and description</p>
+
+<div class="image-container">
+    <a href="#" class="image-link" data-description="Image 1 description">
+        <img src="/assets/images/portfolio/mls1.png" alt="Image 1" />
+    </a>
+    <a href="#" class="image-link" data-description="Image 2 description">
+        <img src="/assets/images/portfolio/adp.png" alt="Image 2" />
+    </a>
+    <a href="#" class="image-link" data-description="Image 3 description">
+        <img src="/assets/images/portfolio/mls1.png" alt="Image 3" />
+    </a>
+    <a href="#" class="image-link" data-description="Image 4 description">
+        <img src="/assets/images/portfolio/adp.png" alt="Image 4" />
+    </a>
+    <a href="#" class="image-link" data-description="Image 1 description">
+        <img src="/assets/images/portfolio/mls1.png" alt="Image 1" />
+    </a>
+    <a href="#" class="image-link" data-description="Image 2 description">
+        <img src="/assets/images/portfolio/adp.png" alt="Image 2" />
+    </a>
+    <a href="#" class="image-link" data-description="Image 3 description">
+        <img src="/assets/images/portfolio/mls1.png" alt="Image 3" />
+    </a>
+    <a href="#" class="image-link" data-description="Image 4 description">
+        <img src="/assets/images/portfolio/adp.png" alt="Image 4" />
+    </a>
+    <!-- Add more image links here -->
+</div>
+
+<div class="popup">
+    <div class="close">&times;</div>
+    <img src="" alt="" />
+    <p class="description"></p>
+</div>
+<script>
+  const imageLinks = document.querySelectorAll('.image-link');
+  const popup = document.querySelector('.popup');
+  const popupClose = document.querySelector('.popup .close');
+  const popupImage = document.querySelector('.popup img');
+  const popupDescription = document.querySelector('.popup .description');
+  imageLinks.forEach(link => {
+      link.addEventListener('click', event => {
+          event.preventDefault();
+          const image = link.querySelector('img');
+          const description = link.dataset.description;
+          popupImage.src = image.src;
+          popupImage.alt = image.alt;
+          popupDescription.textContent = description;
+          popup.style.display = 'block';
+      });
+  });
+  popupClose.addEventListener('click', () => {
+      popup.style.display = 'none';
+  });
+</script>
+
+:ET

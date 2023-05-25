@@ -19,6 +19,7 @@ permalink: /portfolio/dashboards.md/
   <div class = ptfloactive><a style = "color:silver;" href="/portfolio/dashboards.md/">Dashboards</a></div>
   <div class = ptflobttn><a href="/portfolio/projects.md/">Projects</a></div>
   <div class = ptflobttn><a href="/portfolio/publications.md/">Publications</a></div>
+  <div class = ptflobttn><a href="/portfolio/workshops.md/">Workshops</a></div>
 </div>
 
 
