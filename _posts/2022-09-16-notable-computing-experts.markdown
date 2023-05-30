@@ -9,36 +9,30 @@ date:   2022-09-16 16:14:53 -0500
 
 
 
-<a href = "https://tdhopper.com/">Tim Hopper</a> adapted Tim Peters' <i>Zen of Python</i> for git in <i>Zen of Git</i>.
-I have collected both here
+<h3 style = "margin-top: 1.8em">1. Fei-Fei Li</h3>
+A professor at Stanford University and co-director of the Stanford Human-Centered AI Institute. Fei-Fei Li is known for her work in AI and human vision, especially in ImageNet, which significantly impacted the field of deep learning. She's also a co-founder of AI4ALL, a non-profit dedicated to increasing diversity in the AI field.
+<div class="publication-links"><a href="https://profiles.stanford.edu/fei-fei-li">Current Projects/Affiliations</a></div>
 
-<ul>
-    <li><a href = "https://www.python.org/dev/peps/pep-0020/">Zen of Python</a></li>
-    <li><a href = "https://tdhopper.com/blog/zen-of-git">Zen of Git</a></li>
-</ul>
+<h3 style = "margin-top: 1.8em">2. Tim Berners-Lee</h3>
+He's the inventor of the World Wide Web and continues to influence computing with his work on data privacy and control with his project, Solid. His perspectives on the future of the internet are worth following.
+<div class="publication-links"><a href="https://www.w3.org/People/Berners-Lee/">Current Projects/Affiliations</a></div>
 
+<h3 style = "margin-top: 1.8em">3. Geoff Hinton</h3>
+A pioneer in the field of deep learning and neural networks, Hinton's work has been instrumental in bringing about the current AI boom. He currently splits his time between the University of Toronto and Google Brain.
+<div class="publication-links"><a href="https://www.cs.toronto.edu/~hinton/">Current Projects/Affiliations</a></div>
 
-<!-- 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<h3 style = "margin-top: 1.8em">4. Andrew Ng</h3>
+Known for his time at Google, where he helped establish Google Brain, and Baidu, where he served as Chief Scientist. Andrew Ng has been instrumental in the development of machine learning and AI. He's also a co-founder of Coursera, and his courses on machine learning are extremely popular.
+<div class="publication-links"><a href="https://www.andrewng.org/">Current Projects/Affiliations</a></div>
 
-Jekyll requires blog post files to be named according to the following format:
+<h3 style = "margin-top: 1.8em">5. Timnit Gebru</h3>
+A notable expert in the field of artificial intelligence, specifically in ethical AI, AI bias, and computer vision.
+<div class="publication-links"><a href="https://ai.stanford.edu/~tgebru/">Current Projects/Affiliations</a></div>
 
-`YEAR-MONTH-DAY-title.MARKUP`
+<h3 style = "margin-top: 1.8em">6. Judea Pearl</h3>
+A computer scientist and philosopher, known for his development of Bayesian networks and the causal interpretation of graphical models. He also made significant contributions to the theory of causal and counterfactual inference.
+<div class="publication-links"><a href="https://samueli.ucla.edu/judea-pearl/">Current Projects/Affiliations</a></div>
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
+<h3 style = "margin-top: 1.8em">7. Yann LeCun</h3>
+A French computer scientist known for his work in machine learning, computer vision, mobile robotics, and computational neuroscience. He is a Silver Professor at the Courant Institute of Mathematical Sciences at New York University and the Vice President, Chief AI Scientist at Facebook.
+<div class="publication-links"><a href="https://engineering.nyu.edu/faculty/yann-lecun">Current Projects/Affiliations</a></div>
