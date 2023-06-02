@@ -7,8 +7,8 @@ date:   2023-06-2 14:14:53 -0500
 ---
 
 
-Joel Shapiro shared an insightful perspective on how <i>Advanced analytics and AI can easily lead to decisions that are considered “biased.”</i>.
-In a recent <a href="https://hbr.org/2023/05/when-to-give-employees-access-to-data-and-analytics#">HBR article</a>, he relates a cautionalry tale in the form of a case study featuring Goldman Sachs:
+Joel Shapiro shared an insightful perspective on how <i>Advanced analytics and AI can easily lead to decisions that are considered “biased”</i>.
+In a recent <a href="https://hbr.org/2023/05/when-to-give-employees-access-to-data-and-analytics#">HBR article</a> exploring the optimal time and degree to which data professionals and employers are to democratize data, he relates a cautionalry tale in the form of a case study featuring Goldman Sachs:
 
 
 >Goldman Sachs ... was accused of discriminating by offering less credit on an Apple credit card to women than to men. In response, Goldman Sachs said it did not use gender in its model, only factors such as credit history and income. However, one could argue that credit history and income are correlated to gender and using those variables punishes women who tend to make less money on average and historically have had less opportunity to build credit. <mark>When using output that discriminates, decision-makers and data professionals alike need to understand how the data were generated and the interconnectedness of the data, as well as how to measure such things as differential treatment and much more</mark>.
