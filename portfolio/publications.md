@@ -15,7 +15,7 @@ permalink: /portfolio/publications.md/
 <link rel="stylesheet" href="/assets/css/style.css">
 <!-- Sidebarmargin-left:9em; -->
 <div style = "margin-top:1em;  text-align:center">
-  <div class = ptflobttn><a href="/portfolio/dashboards.md/">Dashboards</a></div>
+  <!-- <div class = ptflobttn><a href="/portfolio/dashboards.md/">Dashboards</a></div> -->
   <div class = ptflobttn><a href="/portfolio/projects.md/">Projects</a></div>
   <div class = ptfloactive><a style = "color:silver;" href="/portfolio/publications.md/">Publications</a></div>
   <div class = ptflobttn><a href="/portfolio/workshops.md/">Workshops</a></div>
