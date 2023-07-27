@@ -15,7 +15,7 @@ In a recent <a href="https://hbr.org/2023/05/when-to-give-employees-access-to-da
 
 To mitigate the harms to minority groups, we musst also prioritize fairness, accountability, and transparency in the development of algorithms and AI systems. This includes involving diverse stakeholders in decision-making processes, regularly auditing algorithms for bias, and ensuring that individuals and communities have the right to access, control, and understand the data collected about them.
 
-<br>
+<p style="text-align: center">***</p>
 
 Henry Kissinger, Google's Eric Schmidt, and Daniel Huttenlocher further this subject in their book "The Age of A.I." In the book, when they explore the concept of <i>Dataset Bias</i>. They make the case that machine learning requires substantial amounts of data without which AI cannot learn good models. In instances where there is insufficient data recorded for minority groups like racial minorities, the AI ends up with results that are poor in accuracy. A good example of an instance where insufficient data can lead to suboptimal results can be  found in facial recognition systems. These systems have often been trained with disproportionately fewer pictures of color. When they have to perform the task of identifying black people, then, they tend to perform poorly.
 
