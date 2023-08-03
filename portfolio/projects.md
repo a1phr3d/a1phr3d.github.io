@@ -24,7 +24,15 @@ permalink: /portfolio/projects.md/
 
 
 
-
+<div style="text-align:left">
+<div class="publications-container" ><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/pythonpublicpolicy.svg" width="150" height="150" alt="thesis publication teaser"></div>
+    <div class="publication-details"> 
+        <div class="publication-title"> Python for Public Policy </div> 
+        <div class="publication-info"> <a href="/portfolio/PythonPublicPolicy.html" target="_blank" >Data Manipulation & Visualization; APIs</a></div> 
+    </div>
+    </div>
+</div>
 
 <div style="text-align:left">
 <div class="publications-container" ><!-- style="margin-top:2em" -->
