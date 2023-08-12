@@ -1,4 +1,4 @@
-I"1<link rel="stylesheet" href="/assets/css/style.css" />
+I"'<link rel="stylesheet" href="/assets/css/style.css" />
 
 <!-- Sidebar -->
 <p><!-- margin-left:9em;  --></p>
@@ -7,6 +7,17 @@
   <div class="ptflobttn"><a href="/portfolio/projects.md/">Projects</a></div>
   <div class="ptflobttn"><a href="/portfolio/publications.md/">Publications</a></div>
   <div class="ptflobttn"><a href="/portfolio/workshops.md/">Workshops</a></div>
+</div>
+
+<div style="text-align:left">
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/pythonpublicpolicy.svg" width="150" height="150" alt="thesis publication teaser" /></div>
+    <div class="publication-details"> 
+        <div class="publication-title"> Python for Public Policy </div> 
+        <div class="publication-info"> <a href="/portfolio/PythonPublicPolicy.html" target="_blank">Data Manipulation &amp; Visualization; APIs</a></div> 
+        <div class="publication-info"> <a href="https://drive.google.com/drive/folders/19p-e4sAKRjDwI_-GfGBe6BsOFp9bjFhi?usp=drive_link" target="_blank">SQL Data Manipulation &amp; Analysis</a></div> 
+    </div>
+    </div>
 </div>
 
 <div style="text-align:left"><!-- #margin-top:5em;  -->

@@ -34,6 +34,7 @@ permalink: /portfolio/
     <div class="publication-details"> 
         <div class="publication-title"> Python for Public Policy </div> 
         <div class="publication-info"> <a href="/portfolio/PythonPublicPolicy.html" target="_blank" >Data Manipulation & Visualization; APIs</a></div> 
+        <div class="publication-info"> <a href="https://drive.google.com/drive/folders/19p-e4sAKRjDwI_-GfGBe6BsOFp9bjFhi?usp=drive_link" target="_blank" >SQL Data Manipulation & Analysis</a></div> 
     </div>
     </div>
 </div>
