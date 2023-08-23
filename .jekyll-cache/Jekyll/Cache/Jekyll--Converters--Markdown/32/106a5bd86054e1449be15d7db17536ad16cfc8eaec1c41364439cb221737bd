@@ -1,46 +1,38 @@
----
-layout: post
-title:  "A Survey of Visualizations I Like"
-permalink: "/posts/2023-05-8-vizs-I-like"
-date:   2023-05-8 11:34:53 -0500
-# categories: jekyll update
----
+I":	<link rel="stylesheet" href="/assets/css/style.css" />
 
-<link rel="stylesheet" href="/assets/css/style.css">
-Click on an image for an enlarged view and description
-
+<p>Click on an image for an enlarged view and description</p>
 
 <div class="image-container">
-    <a href="#" class="image-link" data-description="The Article metrics widget displays article-level metrics, including views, citation counts from CrossRef, the Web of Science, and Scopus. It also displays the Altmetric Attention Score.">
-        <img src="/assets/images/blog/1.png" alt="Image 1">
+    <a href="#" class="image-link" data-description="Image 1 description">
+        <img src="/assets/images/blog/1.png" alt="Image 1" />
     </a>
     <a href="#" class="image-link" data-description="Image 2 description">
-        <img src="/assets/images/portfolio/adp.png" alt="Image 2">
+        <img src="/assets/images/portfolio/adp.png" alt="Image 2" />
     </a>
     <a href="#" class="image-link" data-description="Image 3 description">
-        <img src="/assets/images/portfolio/mls1.png" alt="Image 3">
+        <img src="/assets/images/portfolio/mls1.png" alt="Image 3" />
     </a>
     <a href="#" class="image-link" data-description="Image 4 description">
-        <img src="/assets/images/portfolio/adp.png" alt="Image 4">
+        <img src="/assets/images/portfolio/adp.png" alt="Image 4" />
     </a>
     <a href="#" class="image-link" data-description="Image 1 description">
-        <img src="/assets/images/portfolio/mls1.png" alt="Image 1">
+        <img src="/assets/images/portfolio/mls1.png" alt="Image 1" />
     </a>
     <a href="#" class="image-link" data-description="Image 2 description">
-        <img src="/assets/images/portfolio/adp.png" alt="Image 2">
+        <img src="/assets/images/portfolio/adp.png" alt="Image 2" />
     </a>
     <a href="#" class="image-link" data-description="Image 3 description">
-        <img src="/assets/images/portfolio/mls1.png" alt="Image 3">
+        <img src="/assets/images/portfolio/mls1.png" alt="Image 3" />
     </a>
     <a href="#" class="image-link" data-description="Image 4 description">
-        <img src="/assets/images/portfolio/adp.png" alt="Image 4">
+        <img src="/assets/images/portfolio/adp.png" alt="Image 4" />
     </a>
     <!-- Add more image links here -->
 </div>
 
 <div class="popup">
     <div class="close">&times;</div>
-    <img src="" alt="">
+    <img src="" alt="" />
     <p class="description"></p>
 </div>
 <script>
@@ -65,3 +57,4 @@ Click on an image for an enlarged view and description
   });
 </script>
 
+:ET
