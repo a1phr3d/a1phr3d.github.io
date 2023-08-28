@@ -11,7 +11,8 @@ Click on an image for an enlarged view and description
 
 
 <div class="image-container">
-    <a href="#" class="image-link" data-description="The Article metrics widget displays article-level metrics, including views, citation counts from CrossRef, the Web of Science, and Scopus. It also displays the Altmetric Attention Score.">
+    <a href="#" class="image-link" data-description="What it is: The Article metrics widget displays article-level metrics, including views, citation counts from CrossRef, the Web of Science, and Scopus. It also displays the Altmetric Attention Score. &#10; <br>
+                                                    Why I like it: ">
         <img src="/assets/images/blog/1.png" alt="Image 1">
     </a>
     <a href="#" class="image-link" data-description="Image 2 description">
@@ -56,7 +57,10 @@ Click on an image for an enlarged view and description
           const description = link.dataset.description;
           popupImage.src = image.src;
           popupImage.alt = image.alt;
-          popupDescription.textContent = description;
+        //   popupDescription.textContent = description;
+        // Use innerHTML to respect HTML entities and tags
+        // Be careful with this approach as it can be a vector for XSS if not properly sanitized
+          popupDescription.innerHTML = description.replace(/&#10;/g, '<br>'); // replace newline entity with <br> tag
           popup.style.display = 'block';
       });
   });
