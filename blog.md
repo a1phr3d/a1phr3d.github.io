@@ -10,7 +10,11 @@ permalink: /blog/
 
 <div style = "margin: 3em auto auto 0;">
     <div style = "margin-bottom: 1.8em">
-        <span style="font-size: 14px; color: #828282;">June 2, 2023</span>
+        <span style="font-size: 14px; color: #828282;">Aug 29, 2023</span>
+        <h3><a href="/posts/2023-08-29-para">PARA</a></h3>
+    </div>
+    <div style = "margin-bottom: 1.8em">
+        <span style="font-size: 14px; color: #828282;">Jun 2, 2023</span>
         <h3><a href="/posts/2023-06-2-ethics-of-data-and-analytics">Ethics of Data and Analytics</a></h3>
     </div>
     <div style = "margin-bottom: 1.8em">
