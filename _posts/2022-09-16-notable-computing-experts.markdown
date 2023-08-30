@@ -36,3 +36,7 @@ A computer scientist and philosopher, known for his development of Bayesian netw
 <h3 style = "margin-top: 1.8em">7. Yann LeCun</h3>
 A French computer scientist known for his work in machine learning, computer vision, mobile robotics, and computational neuroscience. He is a Silver Professor at the Courant Institute of Mathematical Sciences at New York University and the Vice President, Chief AI Scientist at Facebook.
 <div class="publication-links"><a href="https://engineering.nyu.edu/faculty/yann-lecun">Current Projects/Affiliations</a></div>
+
+<h3 style = "margin-top: 1.8em">8. Manuela M. Veloso</h3>
+...
+<div class="publication-links"><a href="https://engineering.cmu.edu/directory/bios/veloso-manuela.html">Current Projects/Affiliations</a></div>
