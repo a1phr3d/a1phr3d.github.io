@@ -30,12 +30,24 @@ permalink: /portfolio/
 
 <div style="text-align:left">
 <div class="publications-container" ><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/dw_architecture.png" width="150" height="150" alt="thesis publication teaser"></div>
+    <div class="publication-details"> 
+        <div class="publication-title"> Capstones </div> 
+        <div class="publication-info"> <a href="/portfolio/pdac.html" target="_blank" >Advanced Data Analytics</a></div> 
+        <div class="publication-info"> <a href="/portfolio/ibmadsc.html" target="_blank" >Advanced Data Science</a></div> 
+        <div class="publication-info"> Advanced Data Engineering</div> 
+    </div>
+    </div>
+</div>
+
+
+<div style="text-align:left">
+<div class="publications-container" ><!-- style="margin-top:2em" -->
     <div class="publication-teaser"> <img src="/assets/images/portfolio/pythonpublicpolicy.svg" width="150" height="150" alt="thesis publication teaser"></div>
     <div class="publication-details"> 
         <div class="publication-title"> Data Analysis for Public Policy </div> 
         <div class="publication-info"> <a href="/portfolio/PythonPublicPolicy.html" target="_blank" >Data Manipulation & Visualization; APIs</a></div> 
-        <div class="publication-info"> <a href="https://drive.google.com/drive/folders/19p-e4sAKRjDwI_-GfGBe6BsOFp9bjFhi?usp=drive_link" target="_blank" >SQL Data Manipulation & Analysis</a></div> 
-        <div class="publication-info"> <a href="/portfolio/pdac.html" target="_blank" >Python Data Analysis & Communication</a></div> 
+        <div class="publication-info"> <a href="https://drive.google.com/drive/folders/19p-e4sAKRjDwI_-GfGBe6BsOFp9bjFhi?usp=drive_link" target="_blank" >SQL Data Manipulation & Analysis</a></div>
     </div>
     </div>
 </div>

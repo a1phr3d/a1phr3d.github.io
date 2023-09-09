@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Diversity, Equity, and Inclusion"
+permalink: "/posts/2023-09-01-dei"
+date:   2023-08-29 7:14:53 -0500
+# categories: jekyll update
+---
+
+
+https://docs.google.com/document/d/1yynjbFj7mGCQDtxgXNxkixuFmJDYN90BPicMAUdLpaw/edit
