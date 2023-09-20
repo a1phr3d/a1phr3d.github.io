@@ -30,6 +30,9 @@ permalink: /portfolio/projects.md/
 
 
 
+
+
+
 <div style="text-align:left">
 <div class="publications-container" ><!-- style="margin-top:2em" -->
     <div class="publication-teaser"> <img src="/assets/images/portfolio/dw_architecture.png" width="150" height="150" alt="thesis publication teaser"></div>

@@ -1,0 +1,39 @@
+I"„	<link rel="stylesheet" href="/assets/css/style.css" />
+
+<header class="post-header">
+    <h1 class="post-title">Portfolio</h1>
+</header>
+
+<link rel="stylesheet" href="/assets/css/style.css" />
+
+<!-- Sidebarmargin-left:9em; -->
+<div style="margin-top:1em;  text-align:center">
+  <!-- <div class = ptflobttn><a href="/portfolio/dashboards.md/">Dashboards</a></div> -->
+  <div class="ptflobttn"><a href="/portfolio/projects.md/">Projects</a></div>
+  <div class="ptfloactive"><a style="color:silver;" href="/portfolio/publications.md/">Publications</a></div>
+  <div class="ptflobttn"><a href="/portfolio/workshops.md/">Workshops</a></div>
+</div>
+
+<!-- Publications Content -->
+<div class="publications-container" style="margin-top:3em">
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/tableau.svg" width="150" height="150" alt="thesis publication teaser" /></div>
+    <div class="publication-details"> 
+        <div class="publication-title"> Crash Analytics </div> 
+        <div class="publication-info"> <a href="https://public.tableau.com/views/CrashAnalytics_16949829049560/GermanCrashesperQuarter?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link " target="_blank"> Tableau Dashboard</a>, September 2023 </div> 
+        <div class="publication-links"> <code>LOD Expressions</code>&nbsp;&nbsp;<code>Proportion Viz</code>&nbsp;&nbsp;</div>
+    </div>
+</div>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- &lt;div class="publication-teaser"&gt; &lt;img src="/assets/images/portfolio/imr14.jpg" width="150" height="150" alt="cad16 publication teaser"&gt; &lt;/div&gt; 
+&lt;div class="publication-details"&gt;
+    &lt;div class="publication-title"&gt; Constrained Space Deformation Techniques for Design Optimization &lt;/div&gt; 
+    &lt;div class="publication-authors"&gt; Daniel Sieger, Sergius Gaulik, Jascha Achenbach, Stefan Menzel, Mario Botsch &lt;/div&gt; 
+    &lt;div class="publication-info"&gt; Computer-Aided Design, 2016 &lt;/div&gt; 
+    &lt;div class="publication-links"&gt; 
+        &lt;a href="/download/cad16.pdf"&gt;PDF&lt;/a&gt;&amp;nbsp;&amp;nbsp; 
+        &lt;a href="/download/cad16.bib"&gt;BibTex&lt;/a&gt;&amp;nbsp;&amp;nbsp; 
+        &lt;a href="http://dx.doi.org/10.1016/j.cad.2015.07.004"&gt;DOI&lt;/a&gt;&amp;nbsp;&amp;nbsp; 
+    &lt;/div&gt;
+&lt;/div&gt; --&gt;
+</code></pre></div></div>
+<p>&lt;/div&gt;</p>
+:ET

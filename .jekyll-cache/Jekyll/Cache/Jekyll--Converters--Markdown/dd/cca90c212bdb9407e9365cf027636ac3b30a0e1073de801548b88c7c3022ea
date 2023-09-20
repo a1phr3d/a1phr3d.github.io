@@ -1,65 +1,31 @@
----
-layout: page
-title: Portfolio
-permalink: /portfolio/
----
-
-
-<link rel="stylesheet" href="/assets/css/style.css">
-
-
-
-
-
+I"�"<link rel="stylesheet" href="/assets/css/style.css" />
 
 <!-- Sidebar -->
- <!-- margin-left:9em;  -->
-<div style = "margin-top:1em; margin-bottom:5em; text-align:center">
+<p><!-- margin-left:9em;  --></p>
+<div style="margin-top:1em; margin-bottom:5em; text-align:center">
   <!-- <div class = ptflobttn><a href="/portfolio/dashboards.md/">Dashboards</a></div> -->
-  <div class = ptflobttn><a href="/portfolio/projects.md/">Projects</a></div>
-  <div class = ptflobttn><a href="/portfolio/publications.md/">Publications</a></div>
-  <div class = ptflobttn><a href="/portfolio/workshops.md/">Workshops</a></div>
+  <div class="ptflobttn"><a href="/portfolio/projects.md/">Projects</a></div>
+  <div class="ptflobttn"><a href="/portfolio/publications.md/">Publications</a></div>
+  <div class="ptflobttn"><a href="/portfolio/workshops.md/">Workshops</a></div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div style="text-align:left">
-<div class="publications-container"> <!-- style="margin-top:3em" -->
-    <div class="publication-teaser"> <img src="/assets/images/portfolio/tableau.svg" width="150" height="150" alt="thesis publication teaser"></div>
+<div class="publications-container" style="margin-top:3em">
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/tableau.svg" width="150" height="150" alt="thesis publication teaser" /></div>
     <div class="publication-details"> 
         <div class="publication-title"> Crash Analytics </div> 
-        <div class="publication-info"> <a href="https://public.tableau.com/views/CrashAnalytics_16949829049560/GermanCrashesperQuarter?:language=en-US&:display_count=n&:origin=viz_share_link " target="_blank"> Tableau Dashboard</a>, September 2023 </div> 
+        <div class="publication-info"> <a href="https://public.tableau.com/views/CrashAnalytics_16949829049560/GermanCrashesperQuarter?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link " target="_blank"> Tableau Dashboard</a>, September 2023 </div> 
         <div class="publication-links"> <code>LOD Expressions</code>&nbsp;&nbsp;<code>Proportion Viz</code>&nbsp;&nbsp;</div>
     </div>
-</div>
+<!-- </div> -->
 
 
 <div style="text-align:left">
-<div class="publications-container" ><!-- style="margin-top:2em" -->
-    <div class="publication-teaser"> <img src="/assets/images/portfolio/dw_architecture.png" width="150" height="150" alt="thesis publication teaser"></div>
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/dw_architecture.png" width="150" height="150" alt="thesis publication teaser" /></div>
     <div class="publication-details"> 
         <div class="publication-title"> Capstones </div> 
-        <div class="publication-info"> <a href="/portfolio/pdac.html" target="_blank" >Advanced Data Analytics</a></div> 
-        <div class="publication-info"> <a href="/portfolio/ibmadsc.html" target="_blank" >Advanced Data Science</a></div> 
+        <div class="publication-info"> <a href="/portfolio/pdac.html" target="_blank">Advanced Data Analytics</a></div> 
+        <div class="publication-info"> <a href="/portfolio/ibmadsc.html" target="_blank">Advanced Data Science</a></div> 
         <div class="publication-info"> Advanced Data Engineering</div> 
     </div>
     </div>
@@ -67,20 +33,20 @@ permalink: /portfolio/
 
 
 <div style="text-align:left">
-<div class="publications-container" ><!-- style="margin-top:2em" -->
-    <div class="publication-teaser"> <img src="/assets/images/portfolio/pythonpublicpolicy.svg" width="150" height="150" alt="thesis publication teaser"></div>
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/pythonpublicpolicy.svg" width="150" height="150" alt="thesis publication teaser" /></div>
     <div class="publication-details"> 
         <div class="publication-title"> Data Analysis for Public Policy </div> 
-        <div class="publication-info"> <a href="/portfolio/PythonPublicPolicy.html" target="_blank" >Data Manipulation & Visualization; APIs</a></div> 
-        <div class="publication-info"> <a href="https://drive.google.com/drive/folders/19p-e4sAKRjDwI_-GfGBe6BsOFp9bjFhi?usp=drive_link" target="_blank" >SQL Data Manipulation & Analysis</a></div>
+        <div class="publication-info"> <a href="/portfolio/PythonPublicPolicy.html" target="_blank">Data Manipulation &amp; Visualization; APIs</a></div> 
+        <div class="publication-info"> <a href="https://drive.google.com/drive/folders/19p-e4sAKRjDwI_-GfGBe6BsOFp9bjFhi?usp=drive_link" target="_blank">SQL Data Manipulation &amp; Analysis</a></div>
     </div>
     </div>
 </div>
 
 
 <div style="text-align:left"><!-- #margin-top:5em;  -->
-<div class="publications-container" ><!-- style="margin-top:2em" -->
-    <div class="publication-teaser"> <img src="/assets/images/portfolio/qda_rashomon.png" width="150" height="150" alt="thesis publication teaser"></div>
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/qda_rashomon.png" width="150" height="150" alt="thesis publication teaser" /></div>
     <div class="publication-details"> 
         <div class="publication-title"> Quantitative Data Analysis </div> 
         <div class="publication-info"> 
@@ -100,8 +66,8 @@ permalink: /portfolio/
 
 
 <div style="text-align:left"><!-- #margin-top:5em;  -->
-<div class="publications-container" ><!-- style="margin-top:2em" -->
-    <div class="publication-teaser"> <img src="/assets/images/portfolio/didm.png" width="150" height="150" alt="thesis publication teaser"></div>
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/didm.png" width="150" height="150" alt="thesis publication teaser" /></div>
     <div class="publication-details"> 
         <div class="publication-title"> Data-Informed Decision Making </div> 
         <div class="publication-info"> Session one in a series of three Data Literacy workshops that were designed to empower staff members towards making timely and effective data-driven decisions. The 60-minute sessions were delivered to an org-wide audience at SEO who were – through the use of active learning strategies – provided with various opportunities to learn, discuss, and reflect on their work. Attendees identified key learnings from the training that they could apply to their positions by the end of each workshop. The sessions also included a sufficient amount of information that attendees could refer back to at a later time. The first session focused on the basics of data and analytics as well as how organizations, including SEO, use data to solve problems. Attendees were introduced to a framework for conducting Data Analysis along with the  tools and techniques that are commonly used. 
@@ -120,11 +86,11 @@ permalink: /portfolio/
 
 
 <div style="text-align:left">
-<div class="publications-container" ><!-- style="margin-top:2em" -->
-    <div class="publication-teaser"> <img src="/assets/images/portfolio/mls1.png" width="150" height="150" alt="thesis publication teaser"></div>
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/mls1.png" width="150" height="150" alt="thesis publication teaser" /></div>
     <div class="publication-details"> 
         <div class="publication-title"> Machine Learning </div> 
-        <div class="publication-info"> <a href="/portfolio/sml.html" target="_blank" >Supervised Machine Learning: Regression and Classification</a></div> 
+        <div class="publication-info"> <a href="/portfolio/sml.html" target="_blank">Supervised Machine Learning: Regression and Classification</a></div> 
         <div class="publication-info"> Advanced Learning Algorithms </div>
         <div class="publication-info"> Unsupervised Learning: Recommenders, Reinforcement Learning </div>
     </div>
@@ -132,13 +98,13 @@ permalink: /portfolio/
 </div>
 
 <div style="text-align:left"><!-- #margin-top:5em;  -->
-<div class="publications-container" ><!-- style="margin-top:2em" -->
-    <div class="publication-teaser"> <img src="/assets/images/portfolio/adp1.png" width="150" height="150" alt="thesis publication teaser"></div>
+<div class="publications-container"><!-- style="margin-top:2em" -->
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/adp1.png" width="150" height="150" alt="thesis publication teaser" /></div>
     <div class="publication-details"> 
         <div class="publication-title"> Data Science with Python </div> 
-        <div class="publication-info"> <a href="/portfolio/adwp.html" target="_blank" >Analyzing Data With Python</a> </div> 
-        <div class="publication-info"> <a href="/portfolio/vdwp.html" target="_blank" >Visualizing Data With Python</a> </div>
-        <div class="publication-info"> <a href="/portfolio/mlwp.html" target="_blank" >Machine Learning With Python</a> </div> 
+        <div class="publication-info"> <a href="/portfolio/adwp.html" target="_blank">Analyzing Data With Python</a> </div> 
+        <div class="publication-info"> <a href="/portfolio/vdwp.html" target="_blank">Visualizing Data With Python</a> </div>
+        <div class="publication-info"> <a href="/portfolio/mlwp.html" target="_blank">Machine Learning With Python</a> </div> 
         <!-- <div class="publication-info"> Data Science and Machine Learning Capstone Project </div>  -->
         <div class="publication-links">
         <!--<a href="/download/thesis.pdf">PDF</a>&nbsp;&nbsp; 
@@ -153,3 +119,5 @@ permalink: /portfolio/
   <div style = "text-align:center; font-style: italic; font-size: 1em;margin-top:-3em ">If you wish to make an apple pie from scratch, <br>you must first invent the universe</div>
   <div style = "text-align:center; margin-bottom:6em;">— Carl Sagan</div>
 </div> -->
+</div></div></div>
+:ET

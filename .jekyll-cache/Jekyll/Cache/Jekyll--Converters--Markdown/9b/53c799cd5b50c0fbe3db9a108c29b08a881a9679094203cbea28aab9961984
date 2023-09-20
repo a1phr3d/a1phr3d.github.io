@@ -1,0 +1,47 @@
+I"ù
+<link rel="stylesheet" href="/assets/css/style.css" />
+
+<header class="post-header">
+    <h1 class="post-title">Portfolio</h1>
+</header>
+
+<link rel="stylesheet" href="/assets/css/style.css" />
+
+<!-- Sidebarmargin-left:9em; -->
+<div style="margin-top:1em;  text-align:center">
+  <!-- <div class = ptflobttn><a href="/portfolio/dashboards.md/">Dashboards</a></div> -->
+  <div class="ptflobttn"><a href="/portfolio/projects.md/">Projects</a></div>
+  <div class="ptfloactive"><a style="color:silver;" href="/portfolio/publications.md/">Publications</a></div>
+  <div class="ptflobttn"><a href="/portfolio/workshops.md/">Workshops</a></div>
+</div>
+
+<!-- Publications Content -->
+<div style="margin-top:5em; text-align:left">
+<div class="publications-container" style="margin-top:3em">
+    <div class="publication-teaser"> <img src="/assets/images/portfolio/tableau.svg" width="150" height="150" alt="thesis publication teaser" /></div>
+    <div class="publication-details"> 
+        <div class="publication-title"> Crash Analytics </div> 
+        <!-- <div class="publication-authors"> Alfred Adjei-Darko </div>  -->
+        <div class="publication-info"> <a href="https://public.tableau.com/views/CrashAnalytics_16949829049560/GermanCrashesperQuarter?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link " target="_blank"> Tableau Dashboard</a>, September 2023 </div> 
+        <div class="publication-links"> <code>LOD Expressions</code>&nbsp;&nbsp;<code>LOD Expressions</code>&nbsp;&nbsp;</div>
+        <div class="publication-links">
+            <!-- <a href="https://public.tableau.com/views/CrashAnalytics_16949829049560/GermanCrashesperQuarter?:language=en-US&:display_count=n&:origin=viz_share_link " target="_blank">Link</a>&nbsp;&nbsp;  -->
+            <!-- <a href="/download/thesis.pdf">PDF</a>&nbsp;&nbsp; 
+            <a href="/download/thesis_slides_noscript.pdf">Slides</a>&nbsp;&nbsp;
+            <a href="/download/thesis.bib">BibTex</a>&nbsp;&nbsp; -->
+        </div>
+    </div>
+    <!-- <div class="publication-teaser"> <img src="/assets/images/portfolio/imr14.jpg" width="150" height="150" alt="cad16 publication teaser"> </div> 
+    <div class="publication-details">
+        <div class="publication-title"> Constrained Space Deformation Techniques for Design Optimization </div> 
+        <div class="publication-authors"> Daniel Sieger, Sergius Gaulik, Jascha Achenbach, Stefan Menzel, Mario Botsch </div> 
+        <div class="publication-info"> Computer-Aided Design, 2016 </div> 
+        <div class="publication-links"> 
+            <a href="/download/cad16.pdf">PDF</a>&nbsp;&nbsp; 
+            <a href="/download/cad16.bib">BibTex</a>&nbsp;&nbsp; 
+            <a href="http://dx.doi.org/10.1016/j.cad.2015.07.004">DOI</a>&nbsp;&nbsp; 
+        </div>
+    </div> -->
+</div>
+</div>
+:ET
